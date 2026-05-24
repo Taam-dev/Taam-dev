@@ -21,4 +21,4 @@
 > making random stuff
 > want to make a game
 ```
-<div align="center"> <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,mongodb,mysql,git,vscode" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,js,php,unity" /> <br><br> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini" /> </div>
