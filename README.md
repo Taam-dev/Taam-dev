@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=Profile+Views&color=ff3366&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=Profile+Views&color=ff3c69&style=for-the-badge" />
 
 </div>
 
