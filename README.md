@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=Profile+Views&color=red&style=flat" />
+<img src="[https://komarev.com/ghpvc/?username=Taam-dev&label=Profile+Views&color=red&style=flat](https://files.catbox.moe/u03dlk.gif)" />
 
 </div>
 
