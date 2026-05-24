@@ -13,6 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge" />
 
 <br><br>
+<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/UNITY-DEVELOPER-ff4d8d?style=for-the-badge&labelColor=000000&logo=unity&logoColor=white" />
 
