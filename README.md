@@ -6,9 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Unity+Developer;Backend+Learner;Anime+Enjoyer;Building+Random+Stuff" />
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=334" />
-
+<br>
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=334" />
 
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge" />
 
@@ -36,3 +37,4 @@
 > making random stuff
 > want to make a game
 ```
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,js,php,unity" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini" /> </div>
