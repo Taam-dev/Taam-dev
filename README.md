@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./hutaobg.gif](https://files.catbox.moe/u03dlk.gif)" width="100%"/>
+<img src="https://files.catbox.moe/u03dlk.gif" width="100%" loading="eager"/>
 
 # ✦ Taam-dev ✦
 
