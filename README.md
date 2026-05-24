@@ -12,23 +12,23 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=Profile+Views&color=ff3366&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/status-online-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UNITY-DEVELOPER-black?style=for-the-badge&logo=unity&logoColor=white" />
 
-<img src="https://img.shields.io/badge/focus-game%20dev-ff4d88?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-LEARNER-111111?style=for-the-badge&logo=php&logoColor=white" />
 
-<img src="https://img.shields.io/badge/vibe-anime%20coder-ff5c8a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-JAVASCRIPT-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<img src="https://img.shields.io/badge/editor-vscode-ff6699?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILDING-RANDOM%20STUFF-000000?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/engine-unity-ff3366?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/SIMP-HUTAO-222222?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/backend-learning-ff4f7d?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-ENJOYER-111111?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/currently-coding-ff6699?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VSCODE-MAIN-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-<img src="https://img.shields.io/badge/powered%20by-sleep%20deprivation-d9366e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ALIVE-1a1a1a?style=for-the-badge" />
 
 </div>
 
