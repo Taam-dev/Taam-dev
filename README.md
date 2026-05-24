@@ -4,14 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/Taam-dev/Taam-dev/main/hutaobg.gif" width="100%" />
 
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Unity+Developer;Backend+Learner;Anime+Enjoyer;Building+Random+Stuff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF3C69&center=true&vCenter=true&width=600&lines=Unity+Developer;Backend+Learner;Anime+Enjoyer" />
-
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/UNITY-DEVELOPER-ff4d8d?style=for-the-badge&labelColor=000000&logo=unity&logoColor=white" />
 
@@ -30,7 +31,7 @@
 <img src="https://img.shields.io/badge/STATUS-CODING-ff4d8d?style=for-the-badge&labelColor=000000" />
 
 </div>
-</div>
+
 ---
 
 ```txt
@@ -38,4 +39,5 @@
 > making random stuff
 > want to make a game
 ```
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,js,php,unity" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,js,php,unity" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini" /> </div>
