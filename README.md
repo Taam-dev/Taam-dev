@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=334" />
+<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=304" />
 
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge" />
 
@@ -33,8 +33,8 @@
 ---
 
 ```txt
-> simp Hutao
-> making random stuff
-> want to make a game
+>simp Hutao
+>making random stuff
+>want to make a game
 ```
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,js,php,unity" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini" /> </div>
