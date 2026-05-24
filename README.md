@@ -11,8 +11,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=304" />
 
-<img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/UNITY-DEVELOPER-ff4d8d?style=for-the-badge&logo=unity&logoColor=white" />
 
 <img src="https://img.shields.io/badge/BACKEND-LEARNER-ff69b4?style=for-the-badge&logo=php&logoColor=white" />
