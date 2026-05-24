@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Unity+Developer;Backend+Learner;Anime+Enjoyer;Building+Random+Stuff" />
 
-<br>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Taam-dev&label=PROFILE+VIEWS&color=ff4d8d&style=for-the-badge&abbreviated=true&base=304" />
