@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Taam-dev ✦
+# ✦ Taamdev ✦
 
 <img src="https://raw.githubusercontent.com/Taam-dev/Taam-dev/main/hutaobg.gif" width="100%" />
 
@@ -30,7 +30,6 @@
 ---
 
 ```txt
-> simp Hutao
 > making random stuff
 > want to make a game
 ```
